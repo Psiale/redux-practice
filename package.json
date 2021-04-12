@@ -36,6 +36,8 @@
     ]
   },
   "devDependencies": {
-    "react-redux": "^7.2.3"
+    "prop-types": "^15.7.2",
+    "react-redux": "^7.2.3",
+    "redux": "^4.0.5"
   }
 }
